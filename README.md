@@ -11,3 +11,8 @@ TEC-1 Controlled TEA Laser
 ![image](https://user-images.githubusercontent.com/58069246/170593667-a9468672-a94d-4942-929b-918fe7292bd5.png)
 ![image](https://user-images.githubusercontent.com/58069246/170593695-846f16f8-49f9-4ee8-aa44-0b0c8b7bbe72.png)
 ![image](https://user-images.githubusercontent.com/58069246/170593706-66e37bbc-70cc-4f65-ade7-637f7a273ad1.png)
+
+
+
+## Ref
+- https://en.wikipedia.org/wiki/TEA_laser
