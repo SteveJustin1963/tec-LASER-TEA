@@ -1,7 +1,8 @@
 # tec-LASER-TEA
 TEC-1 Controlled TEA Laser
 
-![image](https://user-images.githubusercontent.com/58069246/170593526-1d2a2083-e4ad-4e53-96e8-ba5039c9a962.png)
+ ![1600px-TEA-Laser-Circuit](https://user-images.githubusercontent.com/58069246/202847323-93f1f801-3456-4ded-b2ab-e8a3da3476e0.jpg)
+
 ![image](https://user-images.githubusercontent.com/58069246/170593543-f4ad9b4b-922d-4b66-bbf8-c530d95201ed.png)
 ![image](https://user-images.githubusercontent.com/58069246/170593576-4270e54d-1330-4653-a2e7-5369cb164416.png)
 ![image](https://user-images.githubusercontent.com/58069246/170593594-bb84f8bd-59c1-4390-9e48-c65c8a8cec00.png)
